@@ -18,3 +18,6 @@ A python script which can be used to get live scores, commentary and full scorec
 * Commentary for live matches
 * Scorecard for live and past matches 
 
+### Basic Usage
+
+
