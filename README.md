@@ -20,7 +20,7 @@ A python script which can be used to get live scores, commentary and full scorec
 
 ### Basic Usage
 
-```python
+```cmd
 
 python pycricbuzz.py
 
