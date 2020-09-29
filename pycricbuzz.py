@@ -1,8 +1,4 @@
 
-"""
-Author: Parth Pathak (2020PCS1013)
-"""
-
 import requests
 import time
 import json
